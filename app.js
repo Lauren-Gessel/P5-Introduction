@@ -23,6 +23,12 @@ function draw(){
 
     triangle(470, 230, 520, 200, 465, 200);
 
+    fill(200,100, 50);
+    triangle(593, 85, 645, 62, 612, 106);
+
+    fill(100, 0, 100);
+    circle(600, 100, 30, 30);
+// animate above two, to grow and or move with time
     fill(0);
     circle(100, 150, 10, 10);
     fill(100);
